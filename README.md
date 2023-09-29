@@ -1,3 +1,5 @@
+![Screenshot (142)](https://github.com/sagar285/yotubecloneproject/assets/96648429/97aaf5a3-4835-4718-a463-9c0234c1f617)
+![Screenshot (143)](https://github.com/sagar285/yotubecloneproject/assets/96648429/f9f8116f-2b65-44de-9828-2de8d8eb14d4)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
